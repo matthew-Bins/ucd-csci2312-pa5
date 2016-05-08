@@ -36,5 +36,6 @@ int main() {
     test_iterator_smoketest(ec);
     test_iterator_usage(ec, NumIters);
 
+	system("pause");
     return 0;
 }
